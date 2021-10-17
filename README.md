@@ -27,7 +27,7 @@ This flutter command allows you run the application
     flutter run
 ```
 
-## Running the application
+## App Screenshots
 
 ![](https://github.com/juanggonzalezm/netflix_clone_app/blob/main/assets/images/netflix_clone_1.png?raw=true)
 ![](https://github.com/juanggonzalezm/netflix_clone_app/blob/main/assets/images/netflix_clone_2.png?raw=true)
